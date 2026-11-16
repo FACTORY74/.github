@@ -1,32 +1,13 @@
-<!--
 
-**Here are some ideas to get you started:**
+[Kody-Maps](https://github.com/FACTORY74/Kody) - Plugin Oriented Map Platform
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[KoreStack](https://github.com/FACTORY74/KoreStack) - AI Agent Framework and data management subystems
 
-<!-- [KoreGlobe](https://github.com/KORE74/KoreGlobe)
+[SimMetro](https://github.com/FACTORY74/SimMetro) - Vibecoded SimCity4 clone, and architectural exercise about systems operating at scale
 
-[KoreSim](https://github.com/KORE74/KoreSim)
+---
 
-[KoreCommonCSharpClasses](https://github.com/KORE74/KoreCommonCSharpClasses)
-
-
-<p align="center">
-  <img src="https://github.com/KORE74/.github/blob/main/KoreSquares-Banner.png" width="100%" />
-</p>
--->
-
-
-[KoreStack](https://github.com/FACTORY74/KoreStack)
-
-[SimMetro](https://github.com/FACTORY74/SimMetro)
-
-[Kody-Maps](https://github.com/FACTORY74/Kody)
+# Smaller / older projects
 
 [TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
 
