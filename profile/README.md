@@ -6,7 +6,9 @@
 
 [SimMetro](https://github.com/FACTORY74/SimMetro) - Vibecoded SimCity4 clone, and architectural exercise about systems operating at scale
 
+# Supporting Work
 
+[Sapient (BSI-Flex 355 v2) Messaging](https://github.com/FACTORY74/SapientPython)
 
 # Smaller / older projects
 
