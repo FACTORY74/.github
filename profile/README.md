@@ -10,6 +10,8 @@
 
 [Sapient (BSI-Flex 355 v2) Messaging](https://github.com/FACTORY74/SapientPython)
 
+[Kommand](https://github.com/FACTORY74/Kommand) - Control centre video wall input controller
+
 # Smaller / older projects
 
 [TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
