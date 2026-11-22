@@ -10,6 +10,8 @@
 
 [Sapient (BSI-Flex 355 v2) Messaging](https://github.com/FACTORY74/SapientPython) - Message standard
 
+[Asterix](https://github.com/FACTORY74/AsterixPython) - Message standard
+
 [Kommand](https://github.com/FACTORY74/Kommand) - Control centre video wall input controller
 
 [NatoSymbolGenerator](https://github.com/FACTORY74/NATOSymbolGenerator) - REST API service to define symbols and symbol ref numbers
